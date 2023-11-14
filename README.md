@@ -1,3 +1,3 @@
 mocha
 
-```a game 3D engine programmable in javascript```
+```a 3D game engine programmable in javascript```
